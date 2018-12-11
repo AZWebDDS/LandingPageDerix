@@ -1,0 +1,1 @@
+{"E:\\__MyDEV\\www\\2018\\LandingPageDerix\\gulpfile.js":{"sha1":"3ef211913f3d8fb0acb39881907b870137296ccc","tasks":{"connect-sync":{"name":"connect-sync","dependencies":""},"default":{"name":"default","dependencies":"connect-sync"}}}}

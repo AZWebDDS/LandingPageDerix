@@ -1,0 +1,25 @@
+{
+  "name": "landingpagederix",
+  "version": "1.0.0",
+  "description": "The Catalog of Derix's goods in view like Landing Page (for mobile first)",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-connect-php": "^1.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AZWebDDS/LandingPageDerix.git"
+  },
+  "author": "Created by AZWebDDS for Berozy Sanny Shop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AZWebDDS/LandingPageDerix/issues"
+  },
+  "homepage": "https://github.com/AZWebDDS/LandingPageDerix#readme"
+}

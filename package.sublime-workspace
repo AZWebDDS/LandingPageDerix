@@ -1,0 +1,398 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"car",
+				"carousel-item"
+			],
+			[
+				"ф",
+				"фрагмент"
+			],
+			[
+				"Ser",
+				"ServerAlias"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"a",
+				"a\tTag"
+			],
+			[
+				"ac",
+				"article\tTag"
+			],
+			[
+				"S",
+				"SANDBOX"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"gulp",
+				"Snippet: gulp.task('name',function)"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"term",
+				"Terminal: Open in project folder"
+			],
+			[
+				"te",
+				"Terminal: Open in project folder"
+			],
+			[
+				"termin",
+				"Terminal: Open in project folder"
+			],
+			[
+				"terminal",
+				"Terminal: Open in project folder"
+			],
+			[
+				"termina",
+				"Terminal: Open in project folder"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"ter",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"terminality",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"md",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"MDP",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"m",
+				"MarkdownLivePreview: Edit Current File"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"extend",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"livepreviw",
+				"MarkdownLivePreview: Edit Current File"
+			],
+			[
+				"markdownlive",
+				"Preferences: MarkdownLivePreview Settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mdb",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"liverel",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"insp",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 210.0,
+		"history":
+		[
+			"gulp -v"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/__MyDEV/www/2018/FrontpageTemplate_Myownfreehost_2019/gulpfile.js",
+		"/E/__MyDEV/www/2018/FrontpageTemplate_Myownfreehost_2019/SANDBOX/public/index.php",
+		"/F/2019_PROGRAM/DEVELOPER/xampp-7240vc15/apache/conf/extra/httpd-vhosts.conf",
+		"/F/2019_PROGRAM/System/Apache24/conf/extra/httpd-vhosts.conf",
+		"/E/__MyDEV/www/2018/FrontpageTemplate_Myownfreehost_2019/SANDBOX/public/index.html",
+		"/E/__MyDEV/www/2018/FrontpageTemplate_Myownfreehost_2019/SANDBOX/public/index-sample.html",
+		"/E/__MyDEV/www/2018/FrontpageTemplate_Myownfreehost_2019/SANDBOX/public/=== index-sample.html",
+		"/E/__MyDEV/www/2018/FrontpageTemplate_Myownfreehost_2019/package.json",
+		"/E/__MyDEV/www/2018/FrontpageTemplate_Myownfreehost_2019/SANDBOX/public/geturl.php",
+		"/E/__MyDEV/www/2018/FrontpageTemplate_Myownfreehost_2019/SANDBOX/public/.htaccess",
+		"/E/__MyDEV/www/2018/FrontpageTemplate_Myownfreehost_2015-No13/package.json",
+		"/E/__MyDEV/www/2018/LandingPageDerix/SANDBOX/public/index.html",
+		"/E/__MyDEV/СТАНДАРТЫ 2018/__NewProjectNameTemplate v1.0.0/SANDBOX/public/README.md",
+		"/E/__MyDEV/www/2018/LandingPageDerix/SANDBOX/public/img/.gitkeep",
+		"/C/Users/AlexPapa/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/E/__MyDEV/СТАНДАРТЫ 2018/__NewProjectNameTemplate v1.0.0/SANDBOX/public/index-sample.html",
+		"/E/__MyDEV/www/2018/LandingPageDerix/package.json",
+		"/E/__MyDEV/СТАНДАРТЫ 2018/__NewProjectNameTemplate v1.0.0/.gitignore",
+		"/E/__MyDEV/www/2018/LandingPageDerix/.gitignore",
+		"/E/__MyDEV/СТАНДАРТЫ 2018/__NewProjectNameTemplate v1.0.0/SANDBOX/public/index.html",
+		"/E/__MyDEV/www/2018/Drupal863/drupal863-study/web/sites/default/settings.php",
+		"/F/2019_PROGRAM/DEVELOPER/xampp-7240vc15/php/php.ini",
+		"/F/2019_PROGRAM/DEVELOPER/xampp-7240vc15/apache/conf/httpd.conf",
+		"/E/__MyDEV/www/2018/LandingPageBoat/SANDBOX/public/index-sample.html",
+		"/E/__MyDEV/www/2018/LandingPageBoat/SANDBOX/public/index.html",
+		"/E/__MyDEV/www/2018/LandingPageBoat/gulpfile.js",
+		"/E/__MyDEV/www/2018/PHPMySQLRusakovVideokurs/ThisProject.todo",
+		"/E/__MyDEV/www/2018/PHPMySQLRusakovVideokurs/SANDBOX/public/index.html",
+		"/E/__MyDEV/www/2018/PHPMySQLRusakovVideokurs/SANDBOX/public/sources/.htaccess",
+		"/E/__MyDEV/www/2018/PHPMySQLRusakovVideokurs/SANDBOX/public/sources/lesson-4-3/.htaccess",
+		"/E/__MyDEV/www/2018/PHPMySQLRusakovVideokurs/SANDBOX/public/sources/lesson-4-4/.htaccess",
+		"/C/Users/AlexPapa/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/E/__MyDEV/www/2018/PHPMySQLRusakovVideokurs/SANDBOX/public/.htaccess",
+		"/C/Users/AlexPapa/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/AlexPapa/AppData/Roaming/Sublime Text 3/Packages/Terminality/README.md",
+		"/C/Users/AlexPapa/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/AlexPapa/AppData/Roaming/Sublime Text 3/Packages/Terminality/Default (Windows).sublime-keymap",
+		"/C/Users/AlexPapa/AppData/Roaming/Sublime Text 3/Packages/Terminality/Terminality.sublime-settings",
+		"/C/Users/AlexPapa/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/AlexPapa/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/AlexPapa/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/AlexPapa/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/AlexPapa/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/AlexPapa/AppData/Roaming/Sublime Text 3/Packages/User/Terminal (Windows).sublime-settings",
+		"/C/Users/AlexPapa/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/E/__MyDEV/www/2018/PHPMySQLRusakovVideokurs/gulpfile.js",
+		"/C/Users/AlexPapa/AppData/Roaming/Sublime Text 3/Packages/TodoReview/Default.sublime-keymap",
+		"/C/Users/AlexPapa/AppData/Roaming/Sublime Text 3/Packages/TodoReview/TodoReview.sublime-settings",
+		"/C/Users/AlexPapa/AppData/Roaming/Sublime Text 3/Packages/Insert-Filepath/InsertFilepath.sublime-settings",
+		"/F/2019_PROGRAM/README.md",
+		"/C/Users/AlexPapa/Desktop/11/1",
+		"/C/Users/AlexPapa/AppData/Local/Temp/Temp1_cloose-CuteMarkEd-v0.11.3-9-g64915b4.zip/cloose-CuteMarkEd-64915b4/README.md",
+		"/E/AlexPapaMyDoc/_TODO и ИДЕИ/_ИДЕИ/ИДЕИ.md",
+		"/E/AlexPapaMyDoc/_TODO и ИДЕИ/!MyTODO/MyTodayTodo.todo",
+		"/E/AlexPapaMyDoc/Help-файлы, справочники и руководства/GULP/Gulp (шпаргалка, документация).md",
+		"/E/AlexPapaMyDoc/Help-файлы, справочники и руководства/PHPStorm/Краткое пособие по работе в IDE PhpStorm.md",
+		"/E/__MyDEV/www/2018/PHPMySQLsNulaDoGuru2RusakovVideokurs/ThisProject.todo",
+		"/C/Users/AlexPapa/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/PlainTasks (Windows).sublime-settings",
+		"/C/Users/AlexPapa/AppData/Roaming/Sublime Text 3/Packages/User/PlainTasks.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"carousel-example-generic",
+			"300x200",
+			"900x500",
+			"data-src",
+			"src",
+			"class",
+			"div",
+			"                ",
+			"                <div class=\"carousel-item\">\n                    <img src=\"\" alt=\"\">\n                </div>",
+			"verbose",
+			"time",
+			"opcache",
+			".dll",
+			"opcache",
+			"opcache.so",
+			"php_",
+			"opcache",
+			"enable-opcache",
+			"--enable-opcache",
+			" zend_extension",
+			"opcache"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"carousel-showcase",
+			"600x800",
+			"300x200",
+			"src",
+			"data-src"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 127.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
